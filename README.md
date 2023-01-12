@@ -15,20 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello :wave: ! I'm Anthony :coputer: </h1>
+<h1 align="center"> Hello :wave: ! I'm Anthony :computer: </h1>
 
-<div>
+<div align="center">
   <img src="https://media.tenor.com/Vr2vHhPRUHMAAAAd/surf-surfing.gif" width="200" height="200">
 </div>
-  
+ 
+<div align="center">
 <p><em>FullStack Developper</br>Learning Developpment at <a href="https://www.thehackingproject.org/parcours">The Hacking Project</a>
 </em></p>
+</div
 
+<div align="center">
 [![linkedin Anthony Miloradovic](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-miloradovic-945020252/) 
+</div
 
-
-
+<div align="center">
 :wrench: ### Languages and Tools 
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
