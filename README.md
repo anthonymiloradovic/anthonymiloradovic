@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋, I'm MILORADOVIC Anthony !
+<h1 align="center"> Hello :wave: ! I'm Anthony :coputer: </h1>
 
-<div align="center">
+<div>
   <img src="https://media.tenor.com/Vr2vHhPRUHMAAAAd/surf-surfing.gif" width="200" height="200">
 </div>
   
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### Languages and Tools
+:wrench: ### Languages and Tools 
 
 <p align="center">
   <a href="https://skillicons.dev">
