@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 [![linkedin Anthony Miloradovic](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-miloradovic-945020252/) 
-</div
+</div>
 
 <div align="center">
 :wrench: ### Languages and Tools 
