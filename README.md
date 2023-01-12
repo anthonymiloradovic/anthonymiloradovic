@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Hi 👋, I'm MILORADOVIC Anthony !
+
+<div align="center">
+  <img src="https://media.tenor.com/Vr2vHhPRUHMAAAAd/surf-surfing.gif">
+</div>
+  
 <p><em>FullStack Developper</br>Learning Developpment at <a href="https://www.thehackingproject.org/parcours">The Hacking Project</a>
 </em></p>
 
